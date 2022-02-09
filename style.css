@@ -1,4 +1,5 @@
-/*Comment organiser la page avec bootstrap 
-    On est sur un système de 12 colonnes.
-    Utiliser excel
-*/
+
+
+header, footer{
+    background-color: #222529 !important;
+}
